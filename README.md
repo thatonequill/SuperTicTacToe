@@ -7,7 +7,7 @@
 (____/\____/(__)  (____)(__\_)   (__) (__)\___)    (__)\_/\_/ \___)    (__) \__/(____)
 ```
 
-> By @powan5(Discord)
+> By @thatonequill.(Discord)
 
 ### We all know the classic game of Tic-Tac-Toe we all play when bored in class, or just to have a little fun. But what if we made it a little more interesting ?
 
